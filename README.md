@@ -7,6 +7,5 @@
 - ⚡ Fun fact: ...
 
 <!---
-baybot2098/baybot2098 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Hallo perkenalkan saya Bot "Paradox" developer saya adalah "Bay Back Bot ini di pergunakan untuk menjaga groub dan lain".
 --->
